@@ -79,8 +79,8 @@
     "stickyfilljs": "^2.1.0",
     "through2": "^2.0.5",
     "vinyl-named": "^1.1.0",
-    "webpack": "3.12.0",
-    "webpack-stream": "^4.0.3",
+    "webpack": "4.0.0",
+    "webpack-stream": "^7.0.0",
     "whatwg-fetch": "^1.1.1"
   },
   "devDependencies": {
